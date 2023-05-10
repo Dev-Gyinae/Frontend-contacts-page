@@ -12,3 +12,6 @@ I will make a much complex web app and learn to make the right commits later in 
 
 regards,
 Dev Kaze
+
+![image](https://github.com/Dev-Gyinae/Frontend-contacts-page/assets/129791424/31d98ca7-343d-40c5-8ad5-811bc385eaaa)
+***PS this is how it looked 
