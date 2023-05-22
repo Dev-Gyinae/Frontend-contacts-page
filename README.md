@@ -25,3 +25,8 @@ Dev Kaze
 6:31 -  12/05/2023 (Friday)
 
 - Dev Gyinae
+
+
+
+***** New fuctional contacts app --> https://github.com/Dev-Gyinae/contacts_app ****
+
